@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="5.1">
+    <list page="1" pagecount="1" pagesize="1" recordcount="1">
+        <video>
+            <last>2024-06-15 16:09:54</last>
+            <id>1</id>
+            <tid>1</tid>
+            <name><![CDATA[1测试name]]></name>
+            <type>电影</type>
+            <dt>dbm3u8</dt>
+            <note><![CDATA[1测试note]]></note>
+        </video>
+        <video>
+            <last>2024-06-15 16:09:54</last>
+            <id>2</id>
+            <tid>2</tid>
+            <name><![CDATA[2测试name]]></name>
+            <type>电视剧</type>
+            <dt>dbm3u8</dt>
+            <note><![CDATA[2测试note]]></note>
+        </video>
+    </list>
+    <class>
+        <ty id="1">电影</ty>
+        <ty id="2">电视剧</ty>
+    </class>
+</rss>

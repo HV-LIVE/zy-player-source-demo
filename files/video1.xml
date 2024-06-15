@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="5.1">
+    <list page="1" pagecount="1" pagesize="1" recordcount="1">
+        <video>
+            <last>2024-06-15 16:09:54</last>
+            <id>1</id>
+            <tid>1</tid>
+            <name><![CDATA[1测试name]]></name>
+            <type>电影</type>
+            <pic>http://108.181.4.221:8901/cover.png</pic>
+            <lang>国语</lang>
+            <area>大陆</area>
+            <year>2024</year>
+            <state></state>
+            <note><![CDATA[1测试note]]></note>
+            <actor><![CDATA[1测试actor]]></actor>
+            <director><![CDATA[1测试director]]></director>
+            <dl>
+                <dd flag="dbm3u8"><![CDATA[1$http://108.181.4.221:8802/vod-hls/qiongxiongfudi.mp4/index.m3u8]]></dd>
+            </dl>
+            <des><![CDATA[1测试des]]></des>
+        </video>
+    </list>
+</rss>
